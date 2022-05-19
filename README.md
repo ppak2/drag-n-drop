@@ -1,2 +1,2 @@
 # drag-n-drop
-Sample app with drag-n-drop to-do lists
+Sample react app with drag-n-drop to-do items 
